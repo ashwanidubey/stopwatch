@@ -1,0 +1,13 @@
+h1{
+    color: red;
+}
+
+.mydiv{
+    padding: 150px;
+    margin-left: 200px;
+}
+
+.mybutton{
+    color: white;
+    background-color: red;
+}
